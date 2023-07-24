@@ -8,7 +8,11 @@ Hence, the proposed solution is to develop a working prototype of a system that 
 
 # Requirements
 1.tensorflow=2.3.1
+
 2.keras=2.4.3
+
 3.python=3.10
+
 4.opencv=4.7.0.72
+
 5.psycopg2=2.9.6
